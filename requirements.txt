@@ -1,0 +1,10 @@
+python-dotenv
+requests
+moviepy
+opencv-python
+Pillow
+pydub
+numpy
+pandas
+edge-tts
+asyncio
